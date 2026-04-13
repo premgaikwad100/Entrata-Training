@@ -1,0 +1,10 @@
+.dv{
+    border:1px solid black;
+    height:20vh;
+    width:40vh;
+    margin:auto;
+    margin-top:20px;
+}
+body{
+    text-align:center; 
+}
